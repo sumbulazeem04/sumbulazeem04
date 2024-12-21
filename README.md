@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumbulazeem04
 - 👀 I’m interested in machine learning and optimization
-- 🌱 I’m currently learning python, visual studio.
+- 🌱 I’m currently learning python, visual studio, MATLAB.
 - 💞️ I’m looking to collaborate on optimization algorithms. 
 - 📫 How to reach me sumbulazeem@gmail.com
   
